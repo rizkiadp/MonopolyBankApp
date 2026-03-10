@@ -1,0 +1,12 @@
+﻿INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Monopoli Bank App\\lib\\screens\\bank_screen.dart|156|44|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Monopoli Bank App\\lib\\screens\\destination_revealed_screen.dart|69|58|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Monopoli Bank App\\lib\\screens\\event_screen.dart|18|35|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Monopoli Bank App\\lib\\screens\\event_screen.dart|28|34|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Monopoli Bank App\\lib\\screens\\history_screen.dart|45|45|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Monopoli Bank App\\lib\\screens\\property_screen.dart|28|53|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Monopoli Bank App\\lib\\screens\\property_screen.dart|124|50|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Monopoli Bank App\\lib\\screens\\ranking_screen.dart|42|45|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Monopoli Bank App\\lib\\screens\\tax_screen.dart|35|48|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Monopoli Bank App\\lib\\screens\\tax_screen.dart|45|50|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|HINT|DEPRECATED_MEMBER_USE|D:\\Monopoli Bank App\\lib\\screens\\transfer_screen.dart|113|41|11|'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss.
+INFO|LINT|CURLY_BRACES_IN_FLOW_CONTROL_STRUCTURES|D:\\Monopoli Bank App\\lib\\state\\game_state.dart|137|7|7|Statements in an if should be enclosed in a block.
